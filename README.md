@@ -12,3 +12,4 @@ Spring Cloud 教程对应的代码
 - [Spring cloud（四）：熔断器Hystrix](http://geek5.cn/blog/2019/03/19/spring-cloud-hystrix.html)
 - [Spring cloud（五）：统一配置中心](http://geek5.cn/blog/2019/03/18/spring-cloud-config-center.html)
 - [Spring cloud（六）：服务网关](http://geek5.cn/blog/2019/03/18/spring-cloud-gateway.html)
+- [Spring cloud（七）：zipkin链路跟踪](http://geek5.cn/blog/2019/03/20/spring-cloud-zipkin.html)
